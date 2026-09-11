@@ -1,8 +1,8 @@
 class Wvfrm < Formula
   desc "Terminal music player with visualizers, album art, lyrics and themes"
   homepage "https://github.com/Cid-Emmerich/wvfrm"
-  url "https://github.com/Cid-Emmerich/wvfrm/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "3f495b41e5fa4a3de3be1a5145bbea168971ae48f5f5702b573027bceedd8201"
+  url "https://github.com/Cid-Emmerich/wvfrm/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "4b607c7507c19d07267db5c3926ee95717bd6160c0140661842f6b6e5b38401e"
   license "MIT"
   head "https://github.com/Cid-Emmerich/wvfrm.git", branch: "main"
 
